@@ -1,5 +1,5 @@
 ---
-title: "Nadrojisk's Website"
+title: Jordan Sosnowski
 layout: splash
 
 date: 2020-01-20
@@ -9,12 +9,12 @@ header:
   overlay_image: /assets/images/background.png
 
 
-# excerpt: "Welcome to Jordan Sosnowski's Site!"
+excerpt: "Central place for all my websites and projects"
 
 feature_row:
   - image_path: assets/images/convert.png
     title: "Custom Converter"
-    excerpt: "Test project that uses Python's Flask to use custom base conversions"
+    excerpt: "Project using Flask to do base conversions"
     url: "https://convert.nadrojisk.com"
     btn_label: "Click Here"
 
@@ -26,7 +26,7 @@ feature_row:
 
   - image_path: assets/images/blog.png
     title: "Blog"
-    excerpt: "My blog!"
+    excerpt: "Check out my blog"
     url: "https://blog.nadrojisk.com"
     btn_label: "Click Here"
 ---
