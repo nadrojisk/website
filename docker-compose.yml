@@ -7,5 +7,5 @@ services:
       - 4000:4000
     volumes:
       - .:/srv/jekyll:cached
-
+    restart: always
 
