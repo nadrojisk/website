@@ -275,6 +275,7 @@ GEM
 
 PLATFORMS
   ruby
+  x86_64-linux-musl
 
 DEPENDENCIES
   activesupport (>= 4.1.11)
@@ -289,4 +290,4 @@ DEPENDENCIES
   tzinfo-data
 
 BUNDLED WITH
-   2.1.4
+   2.2.2
