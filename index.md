@@ -14,7 +14,7 @@ excerpt: "Central place for all my websites and projects"
 feature_row:
   - image_path: assets/images/convert.png
     title: "Custom Converter"
-    excerpt: "Project using Flask to do base conversions"
+    excerpt: "Project using Python and Flask to do base conversions"
     url: "https://convert.nadrojisk.com"
     btn_label: "Click Here"
 
