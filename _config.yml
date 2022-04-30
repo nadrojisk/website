@@ -21,8 +21,7 @@ timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_ti
 include:
   - _pages
 
-logo: "/assets/images/snowflake.png"
-
+logo: '/assets/images/snowflake.png'
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
@@ -35,7 +34,7 @@ logo: "/assets/images/snowflake.png"
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
+repository: 'nadrojisk/nadrojisk.github.io'
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
@@ -45,10 +44,8 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-
-
 footer:
   links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/auehc"
+    - label: 'GitHub'
+      icon: 'fab fa-fw fa-github'
+      url: 'https://github.com/nadrojisk'
